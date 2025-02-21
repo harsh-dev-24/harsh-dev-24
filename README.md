@@ -18,7 +18,6 @@ Hey there! 👋 I'm **Harshal Bafna**, a **Backend Java Developer** with **3+ ye
 ## 🏆 Achievements & Recognitions  
 🏅 **TCS Awards** – Star of the Quarter, On the Spot, Star Team, Digital Milestone (2022-2024)  
 🔐 **Security Research** – Reported **critical vulnerabilities** (Recognized by APNIC, Automox, Conga)  
-🥇 **Sports Excellence** – Runner-up in **Lakshya State Level Badminton Championship**, Champion in **SMPL Cricket Championship**  
 
 ---
 
