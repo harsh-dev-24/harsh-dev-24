@@ -1,5 +1,5 @@
 # 🚀 Harshal Bafna | Backend Java Developer  
-🔹 **Java | Spring Boot | Microservices | Security | CI/CD | SQL | Docker **  
+###🔹 Java | Spring Boot | Microservices | Security | CI/CD | SQL | Docker   
 
 Hey there! 👋 I'm **Harshal Bafna**, a **Backend Java Developer** with **3+ years of experience** in designing and developing **scalable, secure, and high-performance enterprise applications**.  
 
